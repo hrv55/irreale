@@ -4,6 +4,8 @@
 
 <div align="center">
 <img src="https://img.shields.io/github/stars/zervwave/irreale?style=flat-square" />
+<img src="https://img.shields.io/github/issues/zervwave/irreale?style=flat-square" />
+<img src="https://img.shields.io/github/issues-pr/zervwave/irreale?style=flat-square" />
 <img src="https://img.shields.io/github/v/release/zervwave/irreale?style=flat-square" />
 <img src="https://img.shields.io/github/downloads/zervwave/irreale/total?style=flat-square" />
 </div>
@@ -43,5 +45,5 @@ For more information see [here](https://github.com/zervwave/irreale/projects/2).
 
 Licensed under the [MIT License](LICENSE).
 
-[**irreale** logo](logo) designed by [Harvey Wu](https://github.com/zervwave) released under a
+[**irreale** logo](logo.svg) designed by [Harvey Wu](https://github.com/zervwave) released under a
 [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)

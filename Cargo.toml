@@ -3,10 +3,10 @@ name = "irreale"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-categories = ["text editor"]
+categories = ["editor"]
 authors = ["Harvey Wu <harveywu@outlook.it>"]
 repository = "https://github.com/zervwave/irreale"
-description = "A modern and flexible open source text editor written in Rust."
+description = "A future open source editor written in Rust."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

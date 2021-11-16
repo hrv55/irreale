@@ -44,5 +44,5 @@ For more information see [here](https://github.com/zervwave/irreale/projects/2).
 ## **License**
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.  
-[**irreale** logo](logo.svg) designed by [Harvey Wu](https://github.com/zervwave) licensed under
+[**irreale** logo](logo.svg) designed by [*Harvey Wu*](https://github.com/zervwave) licensed under
  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

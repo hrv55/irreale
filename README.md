@@ -17,14 +17,37 @@
 
 - [**Contents**](#contents)
 - [**Getting Started**](#getting-started)
-	- [**Installation**](#installation)
+	- [**Platforms and Bundles**](#platforms-and-bundles)
+	- [**Install from Source (Stable)**](#install-from-source-stable)
+	- [**Install from Source (Beta)**](#install-from-source-beta)
 - [**Roadmap**](#roadmap)
 - [**License**](#license)
 
 
 ## **Getting Started**
 
-### **Installation**
+### **Platforms and Bundles**
+| OS      | Version       | Bundles |
+| ------- | ------------- | ------- |
+| Windows | -             | -       |
+| Linux   | 5.10 or later | rpm     |
+| macOS   | 10 or later   | app,dmg |
+
+For more information,see [here](https://github.com/zervwave/irreale/releases).
+
+### **Install from Source (Stable)**
+1. Download the source package
+	```
+    curl -LJO https://github.com/zervwave/irreale/archive/refs/tags/irreale-v0.1.0.zip
+
+	```
+2. Unzip and run
+	```
+	cd irreale/
+	./setup.sh
+	```
+
+### **Install from Source (Beta)**
 1. Clone the repo
 	```
 	git clone https://github.com/zervwave/irreale
@@ -32,7 +55,7 @@
 2. Build and run
     ```
 	cd irreale/
-	cargo build --release & cargo run
+	./setup.sh
 	```
 
 

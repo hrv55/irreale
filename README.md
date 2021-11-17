@@ -39,7 +39,6 @@ For more information,see [here](https://github.com/zervwave/irreale/releases).
 1. Download the source package
 	```
     curl -LJO https://github.com/zervwave/irreale/archive/refs/tags/irreale-v0.1.0.zip
-
 	```
 2. Unzip and run
 	```

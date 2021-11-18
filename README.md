@@ -10,8 +10,6 @@
 <img src="https://img.shields.io/github/downloads/zervwave/irreale/total?style=flat-square" />
 </div>
 
-**[<p align="center">[Explore the Document]</p>](doc/README.md)**
-
 
 ## **Contents**
 
@@ -20,7 +18,9 @@
 	- [**Platforms and Bundles**](#platforms-and-bundles)
 	- [**Install from Source (Stable)**](#install-from-source-stable)
 	- [**Install from Source (Beta)**](#install-from-source-beta)
+- [**Documents**](#documents)
 - [**Roadmap**](#roadmap)
+- [**Contributing**](#contributing)
 - [**License**](#license)
 
 
@@ -31,7 +31,7 @@
 | ------- | ------------- | ------- |
 | Windows | -             | -       |
 | Linux   | 5.10 or later | rpm     |
-| macOS   | 10 or later   | app,dmg |
+| macOS   | 10 or later   | app/dmg |
 
 For more information,see [here](https://github.com/zervwave/irreale/releases).
 
@@ -57,10 +57,19 @@ For more information,see [here](https://github.com/zervwave/irreale/releases).
 	./setup.sh
 	```
 
+## **Documents**
+
+For more information see [here](doc/README.md).
+
 
 ## **Roadmap**
 
 For more information see [here](https://github.com/zervwave/irreale/projects/2).
+
+
+## **Contributing**
+
+For more information see [here](https://github.com/zervwave/.github/CONTRIBUTING.md).
 
 
 ## **License**

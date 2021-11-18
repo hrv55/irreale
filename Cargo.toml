@@ -8,6 +8,8 @@ authors = ["Harvey Wu <harveywu@outlook.it>"]
 repository = "https://github.com/zervwave/irreale"
 description = "A future open source editor written in Rust."
 
+build = "build.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]

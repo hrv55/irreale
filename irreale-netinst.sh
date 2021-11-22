@@ -2,5 +2,5 @@
 # name : irreale web installer manager
 # author : Harvey Wu
 
-echo "irreale web installer manager v0.1.0"
+echo "irreale web installer v0.1.0"
 

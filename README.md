@@ -16,6 +16,7 @@
 - [**Contents**](#contents)
 - [**Getting Started**](#getting-started)
 	- [**Platforms and Bundles**](#platforms-and-bundles)
+	- [**Compiler Environment Requirements**](#compiler-environment-requirements)
 	- [**Install from Source (Stable)**](#install-from-source-stable)
 	- [**Install from Source (Beta)**](#install-from-source-beta)
 - [**Documents**](#documents)
@@ -34,6 +35,14 @@
 | macOS   | 10 or later   | app/dmg |
 
 For more information,see [here](https://github.com/zervwave/irreale/releases).
+
+### **Compiler Environment Requirements**
+| Software | Version       |
+| -------- | ------------- |
+| rustc    | 1.56 or later |
+| cargo    | 1.56 or later |
+| clang    | 11 or later   |
+| make     | 4.3 or later  |
 
 ### **Install from Source (Stable)**
 1. Download the source package

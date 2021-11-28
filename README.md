@@ -1,6 +1,6 @@
 **<h1 align="center">irreale</h1>**
 
-*<div align="center">A future open source editor written in Rust. </div>*
+*<div align="center">Experimental modular development environment for coding. </div>*
 
 <div align="center">
 <img src="https://img.shields.io/github/stars/zervwave/irreale?style=flat-square" />

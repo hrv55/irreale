@@ -1,5 +1,8 @@
 # Configuration for irreale
 
-# Linux/MacOS path ~/.config/irreale/config.yml
-# Windows 
+# Linux/MacOS default path ~/.config/irreale/config.yaml
+# Windows default path %APPDATA%\irreale\config.yaml
+
 name: irreale
+
+theme: default

@@ -2,11 +2,11 @@
 name = "irreale"
 version = "0.1.0"
 edition = "2021"
-license = "MIT"
+license = "Apache-2.0"
 categories = ["editor"]
 authors = ["Harvey Wu <harveywu@outlook.it>"]
 repository = "https://github.com/zervwave/irreale"
-description = "A future open source editor written in Rust."
+description = "Experimental modular development environment for coding."
 
 build = "build.rs"
 

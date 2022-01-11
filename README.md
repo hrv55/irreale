@@ -83,6 +83,4 @@ For more information see [here](https://github.com/zervwave/.github/CONTRIBUTING
 
 ## **License**
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.  
-[**irreale** logo](logo.svg) designed by [*Harvey Wu*](https://github.com/zervwave) licensed under
- [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Distributed under the Apache-2.0 License. See [LICENSE](LICENSE) for more information.
